@@ -1,0 +1,15 @@
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\bin\Debug\GenelAlıştırma.exe.config
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\bin\Debug\GenelAlıştırma.exe
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\bin\Debug\GenelAlıştırma.pdb
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.Form1.resources
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.Form2.resources
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.Properties.Resources.resources
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.csproj.GenerateResource.cache
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.exe
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.pdb
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.Form3.resources
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.Form4.resources
+C:\Users\sadullah.sener\source\repos\GenelAlıştırma\GenelAlıştırma\obj\Debug\GenelAlıştırma.Form5.resources
